@@ -1,0 +1,10 @@
+[
+  {
+    "package": "qtl2ggplot",
+    "oncran": true
+  },
+  {
+    "package": "qtl2pattern",
+    "oncran": true
+  }
+]
